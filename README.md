@@ -1,4 +1,4 @@
-# treffelhog_atomation
+# truffle_atomation
 Step By step process to Automate truffelhog scan
 
 This automation script will help you detect hardcoded creds in git repo in mass scale 
